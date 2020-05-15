@@ -1,0 +1,33 @@
+header {
+  text-align: left;
+  font-size: 30px;
+  color: white;
+  
+}
+h2 {
+  font-size: 30px;
+}
+p {
+  font-size: 20px;
+}
+button{
+ background-color: rgb(155, 68, 83);
+ border: none;
+ padding: 15px 32px;
+ color: white;
+ cursor: pointer;
+ 
+}
+.topnav-right{
+ float: right;
+ color: white;
+}
+body{
+ text-align: center;
+ background-image: url(/images/pexels-photo-1619488.jpeg);
+ font-family: anton;
+}
+main{
+ background-color: thistle;
+ background-size: 50px;
+}
